@@ -1,0 +1,15 @@
+{
+  "name": "ezra-ramatong-280-node-file-io-javascript",
+  "version": "1.0.0",
+  "description": "Node & File IO (280) For raw project instructions see: http://syllabus.africacode.net/projects/nodejs/file-io/",
+  "main": "src/visitor.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "Ezra Ramatong",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
